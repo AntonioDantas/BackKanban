@@ -16,10 +16,17 @@ Autor: Antonio Dantas
 5. As funções do cards estarão disponíveis para utilização em cada seção respectiva.
 
 # Observações
-Foi adicionado documentação para melhor compreensão das funcionalidades de cada chamada da API
-Foi desenvolvido um projeto muito simples de teste das funcionalidades dos cards
-Foi utilizado arquitetura de injeção por dependência com responsabilidades próprias (seguindo princípios SOLID)
-Foi incorporado o StyleCop.Analyzers, porém nem todas as sugestões foram ajustadas ainda
+Foi adicionado documentação para melhor compreensão das funcionalidades de cada chamada da API 
+
+Foi desenvolvido um projeto muito simples de teste das funcionalidades dos cards 
+
+Foi utilizado arquitetura de injeção por dependência com responsabilidades próprias (SOLID) 
+
+Foi incorporado o StyleCop.Analyzers, porém nem todas as sugestões foram ajustadas ainda 
+
+
 
 Obrigado pela oportunidade, tenha um ótimo dia.
+
+
 Antonio Dantas
